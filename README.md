@@ -1,1 +1,1 @@
-# alphabeth-nestjs-taurus-app
+# alphabeth-vuejs-taurus-app
